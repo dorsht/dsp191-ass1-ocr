@@ -1,0 +1,5 @@
+* 	 BUCKET NAME 	   *
+* 	 QUEUE NAME 	   *
+* INSTANCE-PROFILE ARN * (ends in instance-profile/role-name)
+* 	 KEY NAME 	   	   *
+*  SECURITY GROUP ID   *
